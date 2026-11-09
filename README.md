@@ -6,13 +6,7 @@
 <h1 align="center">Statistical ⚡️ Forecast</h1>
 <h3 align="center">Lightning fast forecasting with statistical and econometric models</h3>
 
-[![CI](https://github.com/Nixtla/statsforecast/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/Nixtla/statsforecast/actions/workflows/ci.yaml)
-[![Python](https://img.shields.io/pypi/pyversions/statsforecast)](https://pypi.org/project/statsforecast/)
-[![PyPi](https://img.shields.io/pypi/v/statsforecast?color=blue)](https://pypi.org/project/statsforecast/)
-[![conda-nixtla](https://img.shields.io/conda/vn/conda-forge/statsforecast?color=seagreen&label=conda)](https://anaconda.org/conda-forge/statsforecast)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Nixtla/statsforecast/blob/main/LICENSE)
-[![docs](https://github.com/Nixtla/statsforecast/actions/workflows/build-docs.yaml/badge.svg)](https://github.com/Nixtla/statsforecast/actions/workflows/build-docs.yaml)
-[![Downloads](https://pepy.tech/badge/statsforecast)](https://pepy.tech/project/statsforecast)
+
 
 **StatsForecast** offers a collection of widely used univariate time series forecasting models, including automatic `ARIMA`, `ETS`, `CES`, and `Theta` modeling optimized for high performance. It also includes a large battery of benchmarking models.
 </div>
